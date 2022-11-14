@@ -1,0 +1,7 @@
+#polindrome string
+string = javaj
+string = str.casefold()
+#this is string revers
+r = reversed(str)
+if list(str) ==list(r):
+print("polindrome!")
